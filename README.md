@@ -1,5 +1,5 @@
 # Email_Bomber
-#Only For Educational Purpose.
+# Only For Educational Purpose.
 
 
 
@@ -10,11 +10,11 @@ $ apt install python2 python git -y
 $  pip2 install requests mechanize
 $  git clone https://github.com/SDMH-Hacking-TV/E-bomb444
 $ cd E-bomb444
-$ python2 ebomb.py 
+$ python2 ebomb.py
 '''
 
 
-#Help For
+# Help For
 
 
 *Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
