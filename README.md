@@ -8,6 +8,13 @@ This code for education purpose only.
 Use it at your own risk
 ```
 
+## Requirement :
+```
+1. On Less secure apps
+2. Less secure apps & your Google Account (Acttaer Mail)
+3. https://support.google.com/accounts/answer/6010255?hl=en
+```
+
 ### For Run This Tool Termux :
 ```
 $ apt update && apt upgrade -y
