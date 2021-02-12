@@ -2,13 +2,13 @@
 ```
 Unlimited Email Send Any Terget Mail.
 ```
-# Only For Educational Purpose :
+## Only For Educational Purpose :
 ```
 This code for education purpose only.
 Use it at your own risk
 ```
 
-# For Run This Tool Termux :
+### For Run This Tool Termux :
 ```
 $ apt update && apt upgrade -y
 $ apt install python2 python git -y 
@@ -19,7 +19,7 @@ $ python2 ebomb.py
 ```
 
 
-# Help For
+# Help For :
 
 
 *Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
