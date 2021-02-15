@@ -22,6 +22,10 @@ echo "                        ░░░╚═╝░░░░░░╚═╝░�
 echo "                             WELCOME"
 echo "              SDMH-Hacking-TV       Just Hacking-Tools"
 
+echo                                                        
+  read -p "Use this tool for educational purpose only press enter to continue " Enter
+echo
+
 #!/bin/bash
 #installation
 clear
