@@ -23,4 +23,3 @@ echo "                             WELCOME"
 echo "              SDMH-Hacking-TV       Just Hacking-Tools"
 xdg-open https://syr.us/iiW
 echo ""
-
