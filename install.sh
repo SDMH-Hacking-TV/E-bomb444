@@ -26,11 +26,11 @@ echo
   read -p "Use this tool for educational purpose only press enter to continue " Enter
 echo
 
-#!/bin/bash
-#installation
-clear
-echo ""
-echo ""
-echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://syr.us/iiW
-echo ""
+    #!/bin/bash
+    #installation
+    clear
+     echo ""
+     echo ""
+     echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+     xdg-open https://syr.us/iiW
+     echo ""
