@@ -19,8 +19,8 @@ Use it at your own risk
 ```
 $ apt update && apt upgrade -y
 $ apt install python2 python git -y 
-$  pip2 install requests mechanize
-$  git clone https://github.com/SDMH-Hacking-TV/E-bomb444
+$ pip2 install requests mechanize
+$ git clone https://github.com/SDMH-Hacking-TV/E-bomb444
 $ cd E-bomb444
 $ bash install.sh
 $ python2 ebomb.py
